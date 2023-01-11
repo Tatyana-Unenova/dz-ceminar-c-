@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.AssemblyInfo.cs
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\bin\Debug\net6.0\dz1zadan4.exe
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\bin\Debug\net6.0\dz1zadan4.deps.json
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\bin\Debug\net6.0\dz1zadan4.runtimeconfig.json
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\bin\Debug\net6.0\dz1zadan4.dll
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\bin\Debug\net6.0\dz1zadan4.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.dll
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\refint\dz1zadan4.dll
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\dz1zadan4.genruntimeconfig.cache
+C:\Users\ПК\Desktop\dz ceminar c#\dz1zadan4\obj\Debug\net6.0\ref\dz1zadan4.dll
