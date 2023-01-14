@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.AssemblyInfo.cs
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\bin\Debug\net6.0\zneob2ceminar2.exe
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\bin\Debug\net6.0\zneob2ceminar2.deps.json
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\bin\Debug\net6.0\zneob2ceminar2.runtimeconfig.json
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\bin\Debug\net6.0\zneob2ceminar2.dll
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\bin\Debug\net6.0\zneob2ceminar2.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.dll
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\refint\zneob2ceminar2.dll
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\zneob2ceminar2.genruntimeconfig.cache
+C:\Users\ПК\Desktop\dz ceminar c#\zneob2ceminar2\obj\Debug\net6.0\ref\zneob2ceminar2.dll
