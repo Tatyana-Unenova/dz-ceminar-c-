@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\bin\Debug\net6.0\z23cem3.exe
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\bin\Debug\net6.0\z23cem3.deps.json
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\bin\Debug\net6.0\z23cem3.runtimeconfig.json
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\bin\Debug\net6.0\z23cem3.dll
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\bin\Debug\net6.0\z23cem3.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.AssemblyInfo.cs
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.dll
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\refint\z23cem3.dll
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\z23cem3.genruntimeconfig.cache
+C:\Users\ПК\Desktop\dz ceminar c#\z23cem3\obj\Debug\net6.0\ref\z23cem3.dll
