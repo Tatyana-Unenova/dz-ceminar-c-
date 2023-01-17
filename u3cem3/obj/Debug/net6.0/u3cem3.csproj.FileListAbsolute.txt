@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\bin\Debug\net6.0\u3cem3.exe
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\bin\Debug\net6.0\u3cem3.deps.json
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\bin\Debug\net6.0\u3cem3.runtimeconfig.json
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\bin\Debug\net6.0\u3cem3.dll
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\bin\Debug\net6.0\u3cem3.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.AssemblyInfo.cs
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.dll
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\refint\u3cem3.dll
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.pdb
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\u3cem3.genruntimeconfig.cache
+C:\Users\ПК\Desktop\dz ceminar c#\u3cem3\obj\Debug\net6.0\ref\u3cem3.dll
